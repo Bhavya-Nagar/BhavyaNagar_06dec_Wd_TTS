@@ -1,0 +1,12 @@
+Q.8)What are the various formatting tags in HTML
+
+A)There are number of formatting tags in the HTML are as follows:-
+
+(i) strong tags
+(ii) super script
+(iii) sub script
+(iv) em tag
+(v) strike tags
+(vi) mark tag
+
+are the various formatting tags in the HTML.

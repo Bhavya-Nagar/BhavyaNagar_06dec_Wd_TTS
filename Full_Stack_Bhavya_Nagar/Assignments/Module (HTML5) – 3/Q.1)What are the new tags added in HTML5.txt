@@ -1,0 +1,18 @@
+Q.1) What are the new tags added in HTML5
+
+A) There are total 12 new tags added in HTML5 are as follows:-
+
+header
+footer
+aside 
+section 
+nav
+audio 
+video 
+article
+canvas
+datalist
+summary 
+details
+
+are the new tags added in HTML5.

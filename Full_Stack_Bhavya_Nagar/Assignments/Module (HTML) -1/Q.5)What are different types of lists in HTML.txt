@@ -1,0 +1,7 @@
+Q.5)What are different types of lists in HTML
+
+A) There are the different types of lists in HTML are as follows:-
+
+(i) ordered lists
+(ii) unordered lists
+(iii) description lists

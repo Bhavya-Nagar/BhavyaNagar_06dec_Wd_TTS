@@ -1,0 +1,7 @@
+Q.13)What is the use of an iframe tag?
+
+A) the use of the iframe tag is suppose we want a page within the page at that time we use the iframe tag.
+
+we will see the example of the use of the iframe tag as below as under:-
+
+<iframe src="https://www.ggogle.com" width="100%" height="500px"></iframe>

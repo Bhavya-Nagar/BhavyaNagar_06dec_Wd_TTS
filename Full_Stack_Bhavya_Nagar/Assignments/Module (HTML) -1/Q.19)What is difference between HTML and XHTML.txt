@@ -1,0 +1,7 @@
+Q.19)What is difference between HTML and XHTML?
+
+A) The difference between HTML and XHTML are as follows as under:-
+
+   Html is use to structure the web page while XHTML having a proper formatted tag.html is older versions while XHTML is new versions of html.XHTML is case-sensitive language so all the tags and attributes in the are used to write in smaller case.html is not a case-sensitive language. 
+
+   Thus are the differences between HTML and XHTML.

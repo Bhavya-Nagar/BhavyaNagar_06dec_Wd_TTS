@@ -1,0 +1,14 @@
+Q.3)Semantic element in HTML5 ?
+
+A) header
+footer
+aside 
+section 
+nav
+main
+figure
+figcaption
+meter
+time
+mark
+progress

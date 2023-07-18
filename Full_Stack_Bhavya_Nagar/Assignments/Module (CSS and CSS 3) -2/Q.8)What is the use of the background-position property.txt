@@ -1,0 +1,8 @@
+Q.8)What is the use of the background-position property
+
+A) background-position property is useful suppose when we want to change the position of the background-image within this parent div.
+
+we can use pixels, percentages.
+
+
+thus is the use of the background-position property.

@@ -1,0 +1,15 @@
+Q.18)What is SVG ?
+
+A) SVG stands for "Scalable vector graphics"
+
+-> it is new tool in the market for images.
+
+-> it is in xml format.
+
+-> it is different from bitmap images.
+
+-> so when we zoom the picture in vector format at that picture will be clearly zoom picture will not fade in this.
+
+Example of svg:-
+
+<img src="filename.svg" width="200px" height="200px" />

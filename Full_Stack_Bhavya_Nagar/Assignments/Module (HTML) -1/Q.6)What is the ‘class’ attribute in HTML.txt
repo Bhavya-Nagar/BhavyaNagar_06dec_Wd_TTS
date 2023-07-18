@@ -1,0 +1,13 @@
+Q.6)What is the ‘class’ attribute in HTML
+
+A) Class attribute is required in HTML when we have want to add one or more class in html 
+
+-> the symbols for the class attribute in HTML is "." dot .
+
+-> we can use class attribute in HTML many times. 
+
+example of class attribute in HTML are as follows:-
+
+.title{
+    color: black;
+}

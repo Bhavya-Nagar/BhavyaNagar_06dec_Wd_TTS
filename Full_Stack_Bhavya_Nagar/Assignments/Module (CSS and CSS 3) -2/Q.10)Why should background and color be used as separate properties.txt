@@ -1,0 +1,6 @@
+Q.10)Why should background and color be used as separate properties
+
+A) The background and color properties are used as separate properties because they work with different result like background is used for the to set the image, background color in the web page while color is used for the change the color of the text 
+
+
+Thus thats why background and color properties be used as separate properties.

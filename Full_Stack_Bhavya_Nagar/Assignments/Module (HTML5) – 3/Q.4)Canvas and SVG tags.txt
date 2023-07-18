@@ -1,0 +1,3 @@
+Q.4)Canvas and SVG tags
+
+A) canvas tag is used for bitmaps image which is pixel and when we zoom it on canvas picture the picture will be fade and the pixels of image we can able to see while svg it is a scalable vector graphic image we can easily zoom out the picture in this picture will be not fade.

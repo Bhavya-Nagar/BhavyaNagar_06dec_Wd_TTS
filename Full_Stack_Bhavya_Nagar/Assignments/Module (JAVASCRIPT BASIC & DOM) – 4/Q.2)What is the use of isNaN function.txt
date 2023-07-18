@@ -1,0 +1,5 @@
+Q.2)What is the use of isNaN function
+
+A) The use of isNaN function is we can use this function in the form validation for example we can use this function in the number that if the user enter a number that is not valid number then print the error message to user and ask them to right again. 
+
+Thus we can use this function as below.

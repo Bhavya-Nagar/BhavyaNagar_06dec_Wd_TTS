@@ -1,0 +1,14 @@
+Q.1)What are the benefits of using CSS?
+
+A) There are the many benefits css are as follows as under:-
+
+(i) with the help of css we can style our web app.
+
+(ii) the second benefit is that with the help of media queries we can make our web app responsive.
+
+(iii) we can do animations in our web app.
+
+(iv) we can also use 2d and 3d transforms in our web app.
+
+
+Thus are the some benefits of using CSS.

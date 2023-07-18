@@ -1,0 +1,3 @@
+Q.12)How can you convert the string of any base to an integer in JavaScript
+
+A) we can convert the string of any base to an integer in JavaScript with the help of parseInt function.

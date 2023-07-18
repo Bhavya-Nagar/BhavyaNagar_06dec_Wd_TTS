@@ -1,0 +1,6 @@
+Q.20)What are logical and physical tags in HTML ?
+
+A) The difference between logical and physical tags in HTML are as simple suppose we want to structure the web page and want write some content in to it at that time logical tags are can be used.on other hand suppose we want to style over web page content at that time physical tags are can be used.example of logical tags is h1 to h6,semantic tags etc.while physical tags examples are font,center,bold tags etc.
+
+Thus are the difference between logical and physical tags in HTML.
+

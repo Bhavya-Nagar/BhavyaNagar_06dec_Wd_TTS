@@ -1,0 +1,5 @@
+Q.12)How to maintain the CSS specifications
+
+A) to maintain the CSS specification make use of html semantic tags another important things is check the css code in all the browers that this is working properly in all the browers or not and use latest version of the css. 
+
+Thus how we can maintain the CSS specification.

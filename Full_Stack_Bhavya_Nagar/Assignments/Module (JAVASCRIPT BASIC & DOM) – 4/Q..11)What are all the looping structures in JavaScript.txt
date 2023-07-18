@@ -1,0 +1,7 @@
+Q.11)What are all the looping structures in JavaScript
+
+A) There are 3 looping structures in JavaScript are as follows as under:-
+
+for loop 
+while loop
+do while loop

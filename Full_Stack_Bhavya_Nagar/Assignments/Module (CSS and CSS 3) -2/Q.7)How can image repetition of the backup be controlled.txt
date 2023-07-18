@@ -1,0 +1,3 @@
+Q.7)How can image repetition of the backup be controlled ?
+
+A) The image repetition of the backup can be controlled by the background repeat properties

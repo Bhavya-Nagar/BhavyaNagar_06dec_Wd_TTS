@@ -1,0 +1,12 @@
+Q.2)What are the disadvantages of CSS ?
+
+A) the disadvantages of CSS are as follows:-
+
+(i) css is complex for beginner there are some confusion topics and even many topics are there so it will take the time to learn css for begineer
+
+(ii) some of the css properties works according to the browser so sometimes some of the styles can be view different in other browsers.so the look of the website gives bad feel.
+ 
+(iii) due to many animations and transitions in the website with that sometimes website can be able to work but the process will be slow and even sometimes it will take the time to load.
+
+
+Thus are the disadvantages of CSS.

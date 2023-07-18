@@ -1,0 +1,14 @@
+Q.11)What is the difference between a block-level element and an inline element
+
+A) The main difference between a block-level element and an inline element are block level elements contains a full width and automatically shifts to the next line while inline elements does not contain a full width it will take width according the text only 
+
+Example of a block-level element are as follows:-
+
+Heading tags h1 to h6 
+
+Example of a inline element is as follows:- 
+
+anchor tag 
+
+
+Thus are the difference between a block-level element and an inline element

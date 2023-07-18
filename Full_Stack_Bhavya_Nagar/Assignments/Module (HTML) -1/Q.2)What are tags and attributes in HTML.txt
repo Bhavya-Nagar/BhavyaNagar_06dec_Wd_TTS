@@ -1,0 +1,16 @@
+Q.2)What are tags and attributes in HTML
+
+A) Tags contains opening and closing tags and attributes we will see in below example with explanation
+
+
+Example of tags and attributes are as follows:-
+
+<h1 class="title">Bhavya</h1>
+
+Explanation of above example are as follows:-
+
+<h1></h1> This is called opening and closing tags.
+
+class it is called attributes
+
+and title is called the values of the attributes.

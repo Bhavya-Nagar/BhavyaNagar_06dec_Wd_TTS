@@ -1,0 +1,3 @@
+Q.9)How is Cell Padding different from Cell Spacing?
+
+A)  Cell Padding different from Cell Spacing because having space between content and cell border while cells Spacing having space between two adjacent cells.

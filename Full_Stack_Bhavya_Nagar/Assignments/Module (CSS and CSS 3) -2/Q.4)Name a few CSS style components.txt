@@ -1,0 +1,5 @@
+Q.4)Name a few CSS style components ?
+
+A) There are some css style components are as follows as under:-
+
+border,animation,transitions,layout,colors.etc are the some of the css style components.

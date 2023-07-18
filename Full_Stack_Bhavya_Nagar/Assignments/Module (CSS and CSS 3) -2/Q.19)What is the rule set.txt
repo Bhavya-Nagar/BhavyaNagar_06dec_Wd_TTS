@@ -1,0 +1,3 @@
+Q.19)What is the rule set ?
+
+A) The rule set it consists of selector its means we want to style the elements is called thr selectors or rule sets.

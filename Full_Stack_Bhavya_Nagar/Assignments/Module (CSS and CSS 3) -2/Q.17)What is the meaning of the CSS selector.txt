@@ -1,0 +1,5 @@
+Q.17) What is the meaning of the CSS selector
+
+A) The CSS selector means suppose you want to select the any element to select the element and want to style that specific element at that time we use css selector. 
+
+this is called css selector 

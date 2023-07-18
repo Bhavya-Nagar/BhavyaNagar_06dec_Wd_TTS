@@ -1,0 +1,3 @@
+Q.15)What are the external style sheets ?
+
+A) The external style sheets are those style sheets which is separate css file and we have to link the page in to the html document. with the help of the link tag.

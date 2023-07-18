@@ -1,0 +1,8 @@
+Q.15)How are active links different from normal links ?
+
+A) The difference between active links and normal links is very simple here active links which means that someone have visited a link due to that there will be change in the color of that link so the user can verify that someone has already visited the link.
+
+at the while normal link are simple links where the user can only click the link and jump to the another web page by the normal link.
+
+
+Thus are the difference between active links and normal links.

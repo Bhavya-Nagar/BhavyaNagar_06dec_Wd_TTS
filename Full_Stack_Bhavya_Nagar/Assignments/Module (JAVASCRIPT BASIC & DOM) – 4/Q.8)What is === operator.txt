@@ -1,0 +1,5 @@
+Q.8)What is === operator
+
+A) === this operator is used to check the value also and type of the value means which type of the data type it is 
+
+this operator is called the strict equality operator.

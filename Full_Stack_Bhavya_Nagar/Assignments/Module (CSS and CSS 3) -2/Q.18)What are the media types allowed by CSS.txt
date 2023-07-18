@@ -1,0 +1,9 @@
+Q.18)What are the media types allowed by CSS
+
+A) the media type allowed by CSS are as follows:-
+
+all
+screen
+print
+handled 
+speech

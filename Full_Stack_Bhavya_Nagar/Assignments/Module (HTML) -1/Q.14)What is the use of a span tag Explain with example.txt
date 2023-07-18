@@ -1,0 +1,11 @@
+Q.14) What is the use of a span tag? Explain with example?
+
+A) Actually the use of a span tag is very simple and easy because if we want to apply a style on a specific part of group of elements at that we can use a span tag. 
+
+
+Example of span tag are as follows:-
+
+<p>This is a <span style="color:red;">bhavya</span>nagar.</p>
+
+
+Thus is the use of a span tag and example

@@ -1,0 +1,5 @@
+Q.5) What do you understand by CSS opacity ?
+
+A) suppose lets take a example there is one element in web page and we have to make that element transparent for that the opacity property will be used and the value will be 0 to 1
+
+0 means fully transparent and 1 means non-transparent.

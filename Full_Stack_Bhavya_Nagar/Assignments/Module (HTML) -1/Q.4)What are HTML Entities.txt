@@ -1,0 +1,7 @@
+Q.4)What are HTML Entities
+
+A) HTML Entities are those Entities which having some special characters which does not display easily.
+
+Examples are shown as below:-
+
+copyright symbols and less than or greater than.

@@ -1,0 +1,3 @@
+Q.9)How can the style class of an element be changed
+
+A) first of all access the element with the help of the id and class then there is a one property called style in JavaScript with the help of that we can change the style of the element. 

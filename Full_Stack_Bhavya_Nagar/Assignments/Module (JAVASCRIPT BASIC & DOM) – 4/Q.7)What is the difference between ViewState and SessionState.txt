@@ -1,0 +1,10 @@
+Q.7)What is the difference between ViewState and SessionState
+
+A) The difference between ViewState and SessionState are as follows: 
+in the viewstate the data is stored from the user input the data in any of the form and from that the when user hits the enter key and postback url comes after that the page reload the data is stored in the database and the data which is stored in the viewstate that will be hidden because it contains encrypted files.
+
+while on the other hand the data which is stored in the SessionState that data of user can do that multiple times but with the unique id of the user
+and that data which sent to client with the help of the cookies is called the SessionState
+
+
+Thus are the difference between ViewState and SessionState.

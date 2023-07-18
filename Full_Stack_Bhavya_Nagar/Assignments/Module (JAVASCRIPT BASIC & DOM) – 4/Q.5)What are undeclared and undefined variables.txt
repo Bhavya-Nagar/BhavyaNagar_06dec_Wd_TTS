@@ -1,0 +1,4 @@
+Q.5)What are undeclared and undefined variables
+
+A) undeclared variables are those variables which are not declared by using var let and const so it will rise a error on the other hand undefined
+variables are those variables which we have declared the variable but not assigned the value it will not show the error but ya in the console the data type will be undefined.

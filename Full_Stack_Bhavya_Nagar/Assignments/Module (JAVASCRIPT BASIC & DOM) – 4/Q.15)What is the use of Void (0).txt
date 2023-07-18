@@ -1,0 +1,3 @@
+Q.15)What is the use of Void (0)
+
+A) suppose we use void (0) in the hyper link and at that time we click on the hyper link that link will not do anything 

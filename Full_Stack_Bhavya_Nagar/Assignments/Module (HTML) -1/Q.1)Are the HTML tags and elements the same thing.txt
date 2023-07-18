@@ -1,0 +1,19 @@
+===============================================================================
+                              Web Designing Assignment 
+                                       Term-1
+                                   Module (HTML) -1 
+===============================================================================
+
+Q.1)Are the HTML tags and elements the same thing? 
+
+Ans) No, HTML tags and elements are not the same thing because html tags contains the opening and closing tags while elements are describe the content between the opening and closing tags.
+
+
+example:-
+
+<p class="paragraph">This is paragraph</p>
+
+explanation of example:-
+
+as we have seen in the example above that the opening and closing tags and there is some content between the opening and closing tags this whole thing is called elements.
+

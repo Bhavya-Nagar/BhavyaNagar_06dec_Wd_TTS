@@ -1,0 +1,7 @@
+Q.3)What are void elements in HTML ?
+
+A) void elements means the tags which are not closed is called as the void tags in HTML.
+
+Example:-
+
+<img> this tag is not closing tags in HTML

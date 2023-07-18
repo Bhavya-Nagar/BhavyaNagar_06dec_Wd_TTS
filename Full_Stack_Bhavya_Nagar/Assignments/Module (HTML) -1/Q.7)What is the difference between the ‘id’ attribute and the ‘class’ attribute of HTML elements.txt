@@ -1,0 +1,18 @@
+Q.7)What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+
+A) id attribute are different from class attribute because id attribute is unique and we can use the id attribute in html page only at one time and it is simple to call the id attribute in html page with "#" hash symbols while in the class attribute we can use the class attribute in html page many times to call the class attribute in html page with "." dot symbols
+
+Example of class attribute and id attribute are as follows:-
+
+
+id attribute:-
+
+#content{
+    color: black;
+}
+
+class attribute:-
+
+.content{
+    color: black;
+}

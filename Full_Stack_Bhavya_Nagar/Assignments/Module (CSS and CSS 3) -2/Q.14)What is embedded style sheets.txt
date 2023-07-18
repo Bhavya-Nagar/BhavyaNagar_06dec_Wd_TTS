@@ -1,0 +1,4 @@
+Q.14)What is embedded style sheets ?
+
+A) Embedded style sheets are those style sheets which are used in html pages between head tags with help of style tags.
+
